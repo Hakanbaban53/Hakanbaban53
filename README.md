@@ -25,7 +25,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github.com/Hakanbaban53/Hakanbaban53/blob/main/hakanimage.jpg" align="right" style="width: 50%" />
+<img src="https://github.com/Hakanbaban53/Hakanbaban53/blob/main/hakanimage.jpg" align="center" style="width: 50%" />
 </div>  
 
 
