@@ -14,11 +14,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-- <br>
+-🔭 I’m currently studying on Computeer Engineering ! <br>
 
-- <br>
+-🌱 I’m currently developing Angular, Ionic. <br>
 
-- <br>
+-📚 I keep learning new things. <br>
 
 
 
