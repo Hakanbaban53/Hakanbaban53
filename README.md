@@ -88,8 +88,7 @@
 <table><tr><td valign="top" width="50%">
   
 </td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanbaban53&theme=tokyonight" align="left" style="width: 100" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanbaban53&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </td></tr></table>  
 
