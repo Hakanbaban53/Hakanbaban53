@@ -87,10 +87,14 @@
 
 <table><tr><td valign="top" width="50%">
   
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakanbaban53&theme=tokyonight&hide_border=false" align="left" style="width: 100%" />
+  
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanbaban53&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakanbaban53&theme=tokyonight&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td>
+
+</tr></table>  
 
 <br/>  
 
