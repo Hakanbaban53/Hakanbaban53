@@ -1,4 +1,4 @@
-## Henüz Takke Alanamyan Tornaci 👋 Hakan ISMAIL  
+## About Me 💫 Hakan ISMAIL  
   
 
 <div  align="center">
