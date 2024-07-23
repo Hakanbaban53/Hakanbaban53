@@ -3,8 +3,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Hakanbaban53" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://gitlab.com/Hakanbaban53" target="_blank">
+<img src=https://img.shields.io/badge/gitlab-%2324292e.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://x.com/HakanBaban531" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
