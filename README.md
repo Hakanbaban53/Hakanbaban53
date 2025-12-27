@@ -9,9 +9,6 @@
 <a href="https://gitlab.com/Hakanbaban53" target="_blank">
 <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab"/>
 </a>
-<a href="https://x.com/HakanBaban531" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-</a>
 <a href="https://www.linkedin.com/in/hakan-ismail-b632181a6/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
